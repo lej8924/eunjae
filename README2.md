@@ -1,8 +1,9 @@
 __#python03-lab submission#__
 
 * 제일 처음 화면을 켰을 때 나타나는 모습
+* ![picture1](https://user-images.githubusercontent.com/71022086/136337115-285abde8-e4fb-46f0-a418-b3a0223f9c9e.png)
   
-<img scr="https://user-images.githubusercontent.com/71022086/136337115-285abde8-e4fb-46f0-a418-b3a0223f9c9e.png">
+
 
 ```python
     turtle.title("turtle_runaway_game") //"turtle_runaway_game"이라는 타이틀을 달아줌
@@ -15,8 +16,7 @@ __#python03-lab submission#__
 *************************************************************
 
 * score가 20이 되었을 때 게임이 종료되는 모습
-* 
-<img scr="https://user-images.githubusercontent.com/71022086/136337121-5f9c8a3f-617e-46b2-8093-af5d825a5ed2.png">
+![picture2](https://user-images.githubusercontent.com/71022086/136337121-5f9c8a3f-617e-46b2-8093-af5d825a5ed2.png)
 
 ```python
     if(is_catched==True): //chaser가 runner를 잡았을 때 
